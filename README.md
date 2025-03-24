@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Technologies
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23feff27&logoSize=10px&)
 
 <!--
 **MatiasDelgadoD/MatiasDelgadoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
