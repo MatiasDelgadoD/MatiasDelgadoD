@@ -19,7 +19,7 @@ I'm currently working in the front-end sector.
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]("https://discordapp.com/users/matiasgerr")
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasDelgadoD&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDelgadoD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDelgadoD&layout=compact&theme=dark)
 
 
 <!--
