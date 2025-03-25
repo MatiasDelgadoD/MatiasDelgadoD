@@ -15,8 +15,11 @@ I'm currently working in the front-end sector.
 ![MUI](https://img.shields.io/badge/tailwindcss-27bfb7.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Contact me
-[![whatsapp](https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black)]("https://wa.me/11438578047")
-[![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]("https://discordapp.com/users/matiasgerr")
+
+[![whatsapp](https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black)
+](https://wa.me/11438578047)
+[![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/matiasgerr)
+
 <br/>
 
 
