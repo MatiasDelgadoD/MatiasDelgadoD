@@ -7,10 +7,12 @@ I'm currently working in the front-end sector.
 ![Banner-simple](technologies-banner.png)
 
 ![Javascript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23feff27&logoSize=10px&)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue&logoSize=30px&)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NOTION](https://img.shields.io/badge/NOTION-000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![MUI](https://img.shields.io/badge/tailwindcss-27bfb7.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
