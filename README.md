@@ -17,6 +17,10 @@ I'm currently working in the front-end sector.
 ## Contact me
 [![whatsapp](https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=black)]("https://wa.me/11438578047")
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]("https://discordapp.com/users/matiasgerr")
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasDelgadoD&show_icons=true&theme=dark)
+![best te](https://github-readme-stats.vercel.app/api?username=MatiasDelgadoD&show_icons=true&theme=dark)
+
 
 <!--
 **MatiasDelgadoD/MatiasDelgadoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
